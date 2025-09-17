@@ -49,7 +49,11 @@ while True:
 
 ![WhatsApp Image 2024-10-08 at 08 18 22_b00f4d16](https://github.com/user-attachments/assets/9b3c81f6-aac9-41d9-8c4f-be532af0ce41)
 
+
+
 ![WhatsApp Image 2024-10-08 at 08 18 22_2ac0dca3](https://github.com/user-attachments/assets/6b1b2a57-9fe7-4e53-84b6-194d1be584cf)
+
+
 ## PROGRAM - RARP
 ```
 Client
@@ -84,7 +88,11 @@ while True:
 ![WhatsApp Image 2024-10-08 at 08 18 23_ea279d6c](https://github.com/user-attachments/assets/f6ab4401-b516-4025-b556-6f1640ddb115)
 
 
+
+
 ![WhatsApp Image 2024-10-08 at 08 18 24_63b9af28](https://github.com/user-attachments/assets/61c517e9-27fd-4348-8308-494b73ff262f)
+
+
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
